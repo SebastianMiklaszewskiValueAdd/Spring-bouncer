@@ -35,3 +35,6 @@ build/
 ### Configuration ###
 src/main/resources/application.properties
 .env
+
+### Internal ###
+/src/main/java/semi/example/spring_bouncer/internal/
